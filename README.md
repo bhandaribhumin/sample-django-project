@@ -171,3 +171,5 @@ Now just head to your favorite web browser and visit
 Django" page. Congrats on starting Django!
 
 ### [install DOC](https://docs.djangoproject.com/en/3.1/topics/install/#installing-official-release)
+
+### [Virtual ENV DOC](https://docs.python.org/3/tutorial/venv.html)
