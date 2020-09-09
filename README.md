@@ -172,4 +172,6 @@ Django" page. Congrats on starting Django!
 
 ### [install DOC](https://docs.djangoproject.com/en/3.1/topics/install/#installing-official-release)
 
+### [pip install DOC](https://pip.pypa.io/en/stable/installing/#upgrading-pip)
+
 ### [Virtual ENV DOC](https://docs.python.org/3/tutorial/venv.html)
