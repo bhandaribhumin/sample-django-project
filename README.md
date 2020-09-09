@@ -170,4 +170,4 @@ Now just head to your favorite web browser and visit
 [http://127.0.0.1:8000](http://127.0.0.1:8000), where you'll see a "Welcome to
 Django" page. Congrats on starting Django!
 
-- https://github.com/hellowebbooks/hellowebapp/blob/master/installation-instructions/starting-your-project.md
+### [install DOC](https://docs.djangoproject.com/en/3.1/topics/install/#installing-official-release)
